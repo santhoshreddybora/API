@@ -21,3 +21,5 @@
 # langchain-huggingface
 fastapi
 uvicorn
+pydantic
+pydantic[email]
