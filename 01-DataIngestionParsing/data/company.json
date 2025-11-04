@@ -1,0 +1,56 @@
+{
+  "company": "TCS",
+  "empolyees": [
+    {
+      "id": 1,
+      "name": "Nagendra",
+      "age": 26,
+      "role": "SAP",
+      "projects": [
+        {
+          "name": "SAP ABAP",
+          "status": "In Progress"
+        },
+        {
+          "name": "Data Pipeline",
+          "status": "Completed"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Santhosh",
+      "age": 26,
+      "role": "SQL",
+      "projects": [
+        {
+          "name": "Humana",
+          "status": "In progress"
+        },
+        {
+          "name": "nationwide",
+          "status": "Completed"
+        }
+      ]
+    }
+  ],
+  "Company": "Air india",
+  "empolyee": [
+    {
+      "id": 1,
+      "name": "Vishnu",
+      "age": 26,
+      "role": ".NET",
+      "projects": [
+        {
+          "name": "Humana",
+          "status": "In Progress"
+        },
+        {
+          "name": "Data Pipeline",
+          "status": "Completed"
+        }
+      ]
+    }
+  ]
+}

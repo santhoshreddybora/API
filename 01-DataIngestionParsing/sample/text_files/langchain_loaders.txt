@@ -1,0 +1,5 @@
+LangChain offers a variety of document loaders to facilitate data ingestion.
+These loaders support multiple file formats, including text, PDF, and HTML.
+Using the appropriate loader ensures efficient data processing and integration with LLMs.
+Document loaders are designed to handle different data sources seamlessly.
+They play a crucial role in preparing data for downstream tasks in RAG applications.

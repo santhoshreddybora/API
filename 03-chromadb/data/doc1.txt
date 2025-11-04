@@ -1,0 +1,30 @@
+Natural Language Processing (NLP) is a subfield of artificial intelligence that enables computers to understand, interpret, and generate human language in a meaningful way.
+Definition and Overview
+Natural Language Processing (NLP) combines computer science, artificial intelligence, and linguistics to facilitate interactions between computers and humans using natural language. It encompasses a range of techniques that allow machines to process and analyze large amounts of natural language data, enabling them to perform tasks such as translation, sentiment analysis, and text summarization. 
+GeeksForGeeks
++1
+Key Applications
+NLP is widely used in various applications, including:
+Chatbots and Virtual Assistants: Tools like Amazon's Alexa and Apple's Siri utilize NLP to understand user queries and provide relevant responses. 
+2
+Text Translation: NLP powers translation services that convert text from one language to another while preserving meaning and context. 
+2
+Sentiment Analysis: Businesses use NLP to analyze customer feedback and social media interactions to gauge public sentiment about products or services. 
+1
+Information Extraction: NLP techniques help extract relevant information from unstructured data, such as identifying key entities and relationships within text. 
+1
+
+
+4 Sources
+Techniques in NLP
+NLP employs various techniques to analyze and manipulate human language, including:
+Tokenization: Breaking down text into smaller units, such as words or phrases, for easier analysis. 
+1
+Part-of-Speech Tagging: Assigning grammatical categories (e.g., noun, verb) to each word in a sentence. 
+1
+Named Entity Recognition: Identifying and classifying key entities (e.g., names, dates) within text. 
+1
+Sentiment Analysis: Determining the emotional tone behind a series of words, often used to understand customer opinions. 
+1
+Text Summarization: Condensing long texts into shorter summaries while retaining essential information. 
+1
