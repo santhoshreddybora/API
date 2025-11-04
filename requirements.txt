@@ -1,23 +1,23 @@
-langchain
-langchain-groq
-tiktoken
-faiss-cpu
-langchain-openai
-langchain-community
-sentence-transformers
-pypdf
-python-dotenv
-chromadb
-ipykernel
-pandas
-pymupdf
-python-docx
-docx2txt
-unstructured
-openpyxl
-msoffcrypto-tool
-jq
-matplotlib
-langchain-huggingface
+# langchain
+# langchain-groq
+# tiktoken
+# faiss-cpu
+# langchain-openai
+# langchain-community
+# sentence-transformers
+# pypdf
+# python-dotenv
+# chromadb
+# ipykernel
+# pandas
+# pymupdf
+# python-docx
+# docx2txt
+# unstructured
+# openpyxl
+# msoffcrypto-tool
+# jq
+# matplotlib
+# langchain-huggingface
 fastapi
 uvicorn
